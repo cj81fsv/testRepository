@@ -17,3 +17,9 @@ hs_err_pid*
 
 .class
 /target/
+.project
+
+.classpath
+
+.class
+/target/
